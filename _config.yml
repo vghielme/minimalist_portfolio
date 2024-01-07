@@ -15,6 +15,6 @@ description:
   Risk Mitigation, Complex Problem Solving, Technical Project Management, Data Analytics, Data Extraction, Data Cleaning, Stakeholder Collaboration, Dashboard and eporting Design
   <br><br>
   </p>
-  
-  theme: pages-themes/cayman@v0.2.0
 
+theme: jekyll-theme-cayman
+  
